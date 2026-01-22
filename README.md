@@ -20,7 +20,7 @@
 - Windows 10 / 11
 - [Arduino IDE 2.x](https://www.arduino.cc/en/software) 已安裝 ESP32 開發板套件
 - ESP32 Soc
-- [Arduino core for the ESP32 family](https://github.com/espressif/arduino-esp32)
+- [Arduino core for the ESP32 family  V3.x.x](https://github.com/espressif/arduino-esp32)
 
 ## 🚀 快速開始
 
